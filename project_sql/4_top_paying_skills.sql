@@ -25,7 +25,7 @@ LIMIT 50;
 
 /* 
 
-Short Breakdown of Top 50 Highest Paying Jobs for Data Analysts
+Breakdown of Top 50 Highest Paying Jobs for Data Analysts
 Top-Earning Skills
 
     Highest Salaries: SVN ($400,000), Solidity ($179,000), Couchbase ($160,515).
